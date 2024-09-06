@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InternalRecorder</string>
+    <string name="capture_audio">Capture Audio</string>
+    <string name="stop_capture">Stop Capturing</string>
+</resources>
